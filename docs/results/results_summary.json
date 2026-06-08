@@ -1,0 +1,37 @@
+{
+  "Proposed": {
+    "total_delay": 459530.46952319774,
+    "total_resource": 5023.703274442466,
+    "acceptance_rate": 0.9076666666666666,
+    "accepted": 2723,
+    "total_processed": 3000
+  },
+  "Greedy": {
+    "total_delay": 465821.49621222465,
+    "total_resource": 5050.981692879817,
+    "acceptance_rate": 0.902,
+    "accepted": 2706,
+    "total_processed": 3000
+  },
+  "Random": {
+    "total_delay": 568549.7103190422,
+    "total_resource": 5113.523406800704,
+    "acceptance_rate": 0.926,
+    "accepted": 2778,
+    "total_processed": 3000
+  },
+  "DRL-OR": {
+    "total_delay": 468878.12713207345,
+    "total_resource": 5096.495800435884,
+    "acceptance_rate": 0.9036666666666666,
+    "accepted": 2711,
+    "total_processed": 3000
+  },
+  "RLQVNE": {
+    "total_delay": 517525.158465021,
+    "total_resource": 5123.598759947932,
+    "acceptance_rate": 0.9056666666666666,
+    "accepted": 2717,
+    "total_processed": 3000
+  }
+}
